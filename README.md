@@ -1,8 +1,4 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![GitHub license](https://img.shields.io/github/license/abhishekpatel946/Slack-Clone)](https://github.com/abhishekpatel946/Slack-Clone)
+
 
 
 

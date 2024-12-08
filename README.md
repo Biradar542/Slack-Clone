@@ -9,7 +9,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <a href="https://github.com/abhishekpatel946/Slack-Clone">
+  <a href="#">
     <img src="https://github.com/abhishekpatel946/Slack-Clone/blob/main/src/assets/logo-readme.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -18,14 +18,14 @@
   <p align="center">
     Slack Clone README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/abhishekpatel946/Slack-Clone"><strong>Explore the docs»</strong></a>
+    <a href="#"><strong>Explore the docs»</strong></a>
     <br />
     <br />
-    <a href="https://github.com/abhishekpatel946/Slack-Clone">View Demo</a>
+    <a href="#">View Demo</a>
     Â·
-    <a href="https://github.com/abhishekpatel946/Slack-Clone/issues">Report Bug</a>
+    <a href=#">Report Bug</a>
     Â·
-    <a href="https://github.com/abhishekpatel946/Slack-Clone/issues">Request Feature</a>
+    <a href="#">Request Feature</a>
   </p>
 </p>
 
@@ -147,17 +147,6 @@ Contributions are what make the open source community such an amazing place to b
 
 
 
-<!-- LICENSE -->
-## License
-
-Distributed under the MIT License. See [`LICENSE`](https://github.com/abhishekpatel946/Slack-Clone/blob/main/LICENSE) for more information.
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Project Link: [https://github.com/abhishekpatel946/Slack-Clone](https://github.com/abhishekpatel946/Slack-Clone)
 
 
 
